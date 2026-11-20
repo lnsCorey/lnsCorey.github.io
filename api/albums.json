@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "1.0.0",
+  "siteUrl": "https://lnscorey.github.io",
+  "did": "did:web:lnscorey.github.io",
+  "updatedAt": "2026-11-20T20:42:42.604Z",
+  "albums": [],
+  "proof": {
+    "type": "Ed25519Signature2020",
+    "created": "2026-11-20T20:42:42.604Z",
+    "verificationMethod": "did:web:lnscorey.github.io#key-1",
+    "signatureValue": "VNLVxh7ZSWoUNPkimwmRG0a3hx6lAMKuOkc9EvbHcD0tK3oM6mSjydb4h6ufqCLSyovm-zt6pV8JAC--BByFCA"
+  }
+}

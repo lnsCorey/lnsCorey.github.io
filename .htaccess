@@ -1,0 +1,9 @@
+DirectoryIndex index.html
+<IfModule mod_headers.c>
+  <FilesMatch "\.(json)$">
+    Header set Access-Control-Allow-Origin "*"
+  </FilesMatch>
+  <FilesMatch "\.(html|json)$">
+    Header set Cache-Control "no-cache"
+  </FilesMatch>
+</IfModule>
