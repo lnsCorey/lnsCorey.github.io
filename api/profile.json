@@ -3,7 +3,7 @@
   "did": "did:web:lnscorey.github.io",
   "siteUrl": "https://lnscorey.github.io",
   "handle": "lnscorey.github.io",
-  "displayName": "Webring by Corey Lines",
+  "displayName": "Webring Studio by Corey Lines",
   "tagline": "Personal, private, peer-to-peer, federated and algorithm free.",
   "bio": "",
   "location": "",
@@ -20,13 +20,16 @@
       "url": "./.well-known/did.json"
     }
   ],
-  "theme": "cyber-terminal",
+  "theme": "neo-webring",
+  "appearance": {
+    "accent": "#22d3ee"
+  },
   "atprotoHandle": "",
-  "updatedAt": "2026-11-20T20:42:42.604Z",
+  "updatedAt": "2026-11-21T02:19:47.658Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-11-20T20:42:42.604Z",
+    "created": "2026-11-21T02:19:47.658Z",
     "verificationMethod": "did:web:lnscorey.github.io#key-1",
-    "signatureValue": "qWiD3V_k7w7EhWPfL6QsxQKPHaRV6r13BmxWBWGDJXlqTxanfkKjGYwfJaP-_H2Y2JxUE3pCjhBVkN6zhrcAAQ"
+    "signatureValue": "jQRZwq2MN4elntYJmmjssgSwiQQW_yZHv0fcMhGojnHM7REIwZJygnP-UOCpE1mMkHzDTcRqaH3v7wObjl7QBA"
   }
 }
