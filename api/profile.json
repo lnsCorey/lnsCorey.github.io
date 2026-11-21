@@ -20,16 +20,16 @@
       "url": "./.well-known/did.json"
     }
   ],
-  "theme": "neo-webring",
+  "theme": "xtraspecial",
   "appearance": {
     "accent": "#22d3ee"
   },
   "atprotoHandle": "",
-  "updatedAt": "2026-11-21T02:19:47.658Z",
+  "updatedAt": "2026-11-21T23:45:47.674Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-11-21T02:19:47.658Z",
+    "created": "2026-11-21T23:45:47.674Z",
     "verificationMethod": "did:web:lnscorey.github.io#key-1",
-    "signatureValue": "jQRZwq2MN4elntYJmmjssgSwiQQW_yZHv0fcMhGojnHM7REIwZJygnP-UOCpE1mMkHzDTcRqaH3v7wObjl7QBA"
+    "signatureValue": "dqbHciYKl0YJCmYVPvprJ-81oDEza6B9aNUGP8u1fxMcl0bwj1almNdB2xkxy0epqgmOjWwr1rlk9U_EHOoNAg"
   }
 }

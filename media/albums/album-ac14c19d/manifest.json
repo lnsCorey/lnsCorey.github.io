@@ -42,7 +42,7 @@
   ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-11-21T23:43:40.356Z",
+    "created": "2026-11-21T23:45:47.683Z",
     "verificationMethod": "did:web:lnscorey.github.io#key-1",
     "signatureValue": "4xtmA1AGjMRvfdex8NK1ewguBKqU6PLcirgtQ3yFenal20FBVbW3OTzUBy1KUx2LvgdHKXoFMe2e9mpLKZOVBQ"
   }
