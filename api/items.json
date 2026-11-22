@@ -2,12 +2,75 @@
   "schemaVersion": "1.0.0",
   "siteUrl": "https://lnscorey.github.io",
   "did": "did:web:lnscorey.github.io",
-  "updatedAt": "2026-11-20T20:42:42.604Z",
-  "items": [],
+  "updatedAt": "2026-11-22T15:18:14.661Z",
+  "items": [
+    {
+      "id": "item-f19a45b2",
+      "canonicalUrl": "https://lnscorey.github.io/api/items.json#item-item-f19a45b2",
+      "type": "post",
+      "title": "Webring Studio Overview",
+      "targetUrl": "https://lnscorey.github.io/api/items.json#item-item-f19a45b2",
+      "category": "general",
+      "commentary": "**Webring Studio is split into two halves.**\n\nThe engine:\n\n**The Webring Studio desktop app.**\n\nYou write posts, manage photo albums, follow friends and run webrings here. It keeps everything in a local SQLite database, signs what you publish, and fetches your friends' sites when you sync.\n\n**The artifact: your public site.**\n\nPublishing produces a folder of static files (HTML, JSON and media) that you can host anywhere: GitHub Pages, any SFTP/FTP host, or a folder on your own server. Nothing on the public site needs a server-side runtime.\n\nSites talk to each other only through those static files. Each site publishes signed JSON (/api/manifest.json, profile.json, items.json, albums.json, connections.json), and its identity is a did:web with an Ed25519 key. When you sync, Studio pulls your friends' JSON, checks the signatures, and builds your feed locally. Likes, replies and comments you make become signed entries on your site, which the other person's Studio picks up the next time it syncs.\n\n**Highlights:**\n\nProfile, wall posts, threaded replies, likes, shares and photo albums\nFriends, with a private-by-default social graph and mute/block\nCurated webrings with Prev / Next / Random navigation\nMultiple personas, fully separated from one another\nScheduled syncing and publishing, running from the menu bar\nAn MCP server so AI agents can work with Studio for you\nOptional add-ons: Google Analytics, AdSense and GitHub-based comments (all off by default)",
+      "mediaUrl": "",
+      "tags": [
+        "webring",
+        "webring-studio",
+        "private",
+        "personal",
+        "#algorithm-free"
+      ],
+      "createdAt": "2026-11-22T15:17:36.213Z"
+    },
+    {
+      "id": "item-0405c727",
+      "canonicalUrl": "https://lnscorey.github.io/api/items.json#item-item-0405c727",
+      "type": "post",
+      "title": "Webring Studio on Github",
+      "targetUrl": "https://lnscorey.github.io/api/items.json#item-item-0405c727",
+      "category": "general",
+      "commentary": "Webring Studio is located here: [https://github.com/lnsCorey/webring-studio](https://github.com/lnsCorey/webring-studio)\n\nIf you download Webring Studio, add me: https://lines2code.com/social/",
+      "mediaUrl": "",
+      "tags": [],
+      "createdAt": "2026-11-22T15:15:12.456Z"
+    },
+    {
+      "id": "item-c9fc2a4a",
+      "canonicalUrl": "https://lnscorey.github.io/api/items.json#item-item-c9fc2a4a",
+      "type": "post",
+      "title": "What is Webring Studio?",
+      "targetUrl": "https://lnscorey.github.io/api/items.json#item-item-c9fc2a4a",
+      "category": "general",
+      "commentary": "Webring Studio is a free desktop app for running your own corner of the social web, while the site you publish stays plain static files. It combines three ideas:\n\nA personal profile site you own. Write posts, share photos, recommend things, and publish a static site to GitHub Pages, your own domain (SFTP/FTP) or a local folder. The site is only HTML, CSS and JSON files, so it needs no server, database or account. Choose from classic themes or social-style templates, and arrange your page with drag-and-drop blocks.\nSigned, verifiable data. Your identity is a did:web address with an Ed25519 key. Every file you publish is cryptographically signed, so friends can check that it really came from you and wasn't changed.\nWebrings, reborn. Create or join curated rings. Ring hubs are static, signed files too, so a ring needs no server. You choose who joins, and a ring can remove or ban members.\nEverything dynamic happens on your computer and not on a server: writing, signing, syncing with friends, building your neighborhood feed and publishing. Friends are added by their site address, and \"syncing\" just means fetching their signed files. The same engine can be driven by an AI agent through its built-in MCP interface.",
+      "mediaUrl": "",
+      "tags": [
+        "webring studio",
+        "information",
+        "features"
+      ],
+      "createdAt": "2026-11-22T15:13:54.575Z"
+    },
+    {
+      "id": "item-6420eb56",
+      "canonicalUrl": "https://lnscorey.github.io/api/items.json#item-item-6420eb56",
+      "type": "post",
+      "title": "What is a Webring? (a little history)",
+      "targetUrl": "https://lnscorey.github.io/api/items.json#item-item-6420eb56",
+      "category": "general",
+      "commentary": "A webring is a group of websites joined in a loop. Each site carries a small navigation bar with ← Previous, Next → and Random links, so a visitor can hop from site to site around the ring without a search engine or feed.\n\nWebrings appeared in the mid-1990s, in the early days of personal home pages. The best-known service, WebRing, was later acquired by Yahoo. Rings were how people found each other. A fan of astronomy, 90s anime or a small town would find one site, then follow the ring to dozens more, each run by a real person. Rings were curated by hand, since the owner chose who could join, and made of personal sites, not accounts on someone else's platform.\n\nThey faded as search engines got good and social networks took over discovery. In recent years webrings have come back with the IndieWeb and small web movements, as people look for a more human, less algorithm-driven web.",
+      "mediaUrl": "",
+      "tags": [
+        "webring",
+        "history",
+        "context"
+      ],
+      "createdAt": "2026-11-22T15:12:58.580Z"
+    }
+  ],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-11-20T20:42:42.604Z",
+    "created": "2026-11-22T15:18:14.661Z",
     "verificationMethod": "did:web:lnscorey.github.io#key-1",
-    "signatureValue": "yE8CrpXhPNr3JmJ3XEc60PQzEhOzNaMs2dTFhoMaq2hT_W5VS9PeYhFFZdXsUqZVe00Vd1hQXob4IHtDipjlBA"
+    "signatureValue": "PU0_daSK1hQkvf7uO5CzvoQeXieSqRS9sNKgi4w4V7Sz4BSTsj_RSvFkCh6RZ47rRpBiBmDhsTqfpo0sEHzQCA"
   }
 }

@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "siteUrl": "https://lnscorey.github.io",
   "did": "did:web:lnscorey.github.io",
-  "updatedAt": "2026-11-22T15:08:30.580Z",
+  "updatedAt": "2026-11-22T15:18:14.661Z",
   "endpoints": {
     "did": "/.well-known/did.json",
     "profile": "/api/profile.json",
@@ -11,9 +11,9 @@
     "connections": "/api/connections.json"
   },
   "stats": {
-    "albumCount": 1,
+    "albumCount": 0,
     "photoCount": 0,
-    "itemCount": 0,
+    "itemCount": 4,
     "friendCount": 0,
     "webringCount": 0
   },
@@ -25,10 +25,10 @@
       "sha256": "4717950c56bbdc9351990ae9963ba3f6d522306e6202383ae46620131859e766"
     },
     "albums": {
-      "sha256": "7c0e1c3c80fe521ebc9984c057ef85330e7bcc70eb6335ee320cb4ccc1ea4887"
+      "sha256": "a72978df6ebb5284c541aad87d25652bd98ebd302ce77d08922c5f1fbb2d4b38"
     },
     "items": {
-      "sha256": "af9ebbd6e383e20bff826bcc9adee5e1e1fa93d9bc323ca8480057f2d11eca6d"
+      "sha256": "4c4e8ce606e54a6dd7ec7e4a0d47e1962fd48bf05ae258b554dfb672465de2c8"
     },
     "connections": {
       "sha256": "85cd587d7e16269413b04dc5e7c754e14ca96407cc6d525d8b3ff13dc6321a9d"
@@ -36,8 +36,8 @@
   },
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-11-22T15:08:30.580Z",
+    "created": "2026-11-22T15:18:14.661Z",
     "verificationMethod": "did:web:lnscorey.github.io#key-1",
-    "signatureValue": "qifgjypdxF9VnMNo-NwkrMxm42EfN9-5oMXpaFx_Ds8xca2_I50u8tTTek0uB2USWBp_Rd-PsCZwX5Ghz5z1CQ"
+    "signatureValue": "jV7x7ZpkYrJZ8b2zNcax_PiSt4LEe6No14b3dZD6GqY1YSqAI0SQPvbK5F8VbTMSqJdjY9H0it5ChUSr6oN1CQ"
   }
 }
