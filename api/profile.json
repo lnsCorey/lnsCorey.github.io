@@ -7,7 +7,7 @@
   "tagline": "Personal, private, peer-to-peer, federated and algorithm free.",
   "bio": "Welcome to this Webring Studio social media publication! Everything here is hosted as static JSON & HTML, managed locally, published & synced from the Webring Studio application, and federated across my group of friends.",
   "location": "",
-  "avatarUrl": "https://lnscorey.github.io/media/profile/avatar-08fc69db5427854173de.png",
+  "avatarUrl": "media/profile/avatar-e048490c7eabfb0258e6.png",
   "bannerUrl": "media/profile/banner-e84781d5356553541a5a.png",
   "interests": [
     "webring",
@@ -36,11 +36,11 @@
     "accent": "#22d3ee"
   },
   "atprotoHandle": "",
-  "updatedAt": "2026-11-22T15:07:27.068Z",
+  "updatedAt": "2026-11-22T15:20:31.170Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-11-22T15:07:27.068Z",
+    "created": "2026-11-22T15:20:31.170Z",
     "verificationMethod": "did:web:lnscorey.github.io#key-1",
-    "signatureValue": "gjUGwwjCJgpEgxn5gVw1dSUJfrAp0-IYoWZmUg7dg0dY4AjtkYRpQrujj1TJs5CqGlFbxxyKsnsBRzbQ0UqbCg"
+    "signatureValue": "4PFA6gr1fR6543o0uzKHhh_vg-fiw1fbyW4MW7mGCl-gzm65JgcX_TnMwZ8AaFaz_ItKkPm35yKm7hUyqIgTBw"
   }
 }

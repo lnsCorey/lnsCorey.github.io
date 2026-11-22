@@ -6,4 +6,7 @@ DirectoryIndex index.html
   <FilesMatch "\.(html|json)$">
     Header set Cache-Control "no-cache"
   </FilesMatch>
+  <FilesMatch "^favicon\.(ico|png)$">
+    Header set Cache-Control "no-cache"
+  </FilesMatch>
 </IfModule>
