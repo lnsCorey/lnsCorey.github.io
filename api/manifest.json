@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "siteUrl": "https://lnscorey.github.io",
   "did": "did:web:lnscorey.github.io",
-  "updatedAt": "2026-11-22T15:04:58.569Z",
+  "updatedAt": "2026-11-22T15:07:27.068Z",
   "endpoints": {
     "did": "/.well-known/did.json",
     "profile": "/api/profile.json",
@@ -22,7 +22,7 @@
       "sha256": "23caae93772a9acdfbfe45c92221b2eb7873d448ebd1064b7d9ce8dc8a62cb29"
     },
     "profile": {
-      "sha256": "13372fc11bef2a3b778d9973720fc93f3d6ce562670742c7f8a305686d2eaf55"
+      "sha256": "4717950c56bbdc9351990ae9963ba3f6d522306e6202383ae46620131859e766"
     },
     "albums": {
       "sha256": "431bac7b82f131f38eb131ae84ad94e4f67429cca858ac7028777e2f67034ced"
@@ -36,8 +36,8 @@
   },
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-11-22T15:04:58.569Z",
+    "created": "2026-11-22T15:07:27.068Z",
     "verificationMethod": "did:web:lnscorey.github.io#key-1",
-    "signatureValue": "5Opg5VU7ndh3ycwS-mRpV2EY7ecr1tm02XDNH4EIRRYSfTPrAqGkSB5UvVZzOWKd2rTWxVvjTRbMsE5DOragCg"
+    "signatureValue": "Hksll3dHS3h3ucVp4QT4ghfpjE6We5gRf8STK73NpPHWOJVe47aze5T_PFqLGLEgc8113KtDN1Tw-99hrH4NAw"
   }
 }
