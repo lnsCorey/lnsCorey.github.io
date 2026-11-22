@@ -5,11 +5,22 @@
   "handle": "lnscorey.github.io",
   "displayName": "Webring Studio by Corey Lines",
   "tagline": "Personal, private, peer-to-peer, federated and algorithm free.",
-  "bio": "",
+  "bio": "Welcome to a Webring Studio social media website! Everything here is hosted as static JSON & HTML, managed locally, published & synced from my Webring Studio application, and federated across my group of friends.",
   "location": "",
-  "avatarUrl": "",
-  "bannerUrl": "",
-  "interests": [],
+  "avatarUrl": "media/profile/avatar-08fc69db5427854173de.png",
+  "bannerUrl": "media/profile/banner-e84781d5356553541a5a.png",
+  "interests": [
+    "webring",
+    "indieweb",
+    "html",
+    "javascript",
+    "css",
+    "federated",
+    "personal",
+    "private",
+    "secure",
+    "algorithm free"
+  ],
   "customLinks": [
     {
       "label": "My Webring Feed",
@@ -25,11 +36,11 @@
     "accent": "#22d3ee"
   },
   "atprotoHandle": "",
-  "updatedAt": "2026-11-21T23:45:47.674Z",
+  "updatedAt": "2026-11-22T15:04:58.569Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-11-21T23:45:47.674Z",
+    "created": "2026-11-22T15:04:58.569Z",
     "verificationMethod": "did:web:lnscorey.github.io#key-1",
-    "signatureValue": "dqbHciYKl0YJCmYVPvprJ-81oDEza6B9aNUGP8u1fxMcl0bwj1almNdB2xkxy0epqgmOjWwr1rlk9U_EHOoNAg"
+    "signatureValue": "DbQ1Io1qlu38kENuy-27mh4Q93ABY_c6icOJj6OdOYFn8txHFZ3YvnoTArHbvV6r78bXNQha3kT1ZDBY3L1RAQ"
   }
 }
