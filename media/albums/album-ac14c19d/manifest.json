@@ -3,47 +3,21 @@
   "type": "webring-album-manifest",
   "siteUrl": "https://lnscorey.github.io",
   "did": "did:web:lnscorey.github.io",
-  "updatedAt": "2026-11-21T02:18:02.700Z",
+  "updatedAt": "2026-11-22T15:08:15.103Z",
   "album": {
     "id": "album-ac14c19d",
     "canonicalUrl": "https://lnscorey.github.io/api/albums.json#album-album-ac14c19d",
     "title": "Tech Hub",
     "description": "Banner",
-    "coverUrl": "media/albums/album-ac14c19d/fae94e369df362363e95.thumb.png",
+    "coverUrl": "",
     "tags": [],
     "createdAt": "2026-11-21T02:17:54.791Z"
   },
-  "photos": [
-    {
-      "id": "photo-767078e8",
-      "canonicalUrl": "https://lnscorey.github.io/api/albums.json#photo-photo-767078e8",
-      "caption": "",
-      "altText": "",
-      "tags": [],
-      "takenAt": "2026-11-21T02:18:02.697Z",
-      "createdAt": "2026-11-21T02:18:02.697Z",
-      "image": {
-        "url": "media/albums/album-ac14c19d/fae94e369df362363e95.png",
-        "sha256": "fae94e369df362363e95771ca71dc796d90067df1d8bd24ec95d6a5de60cda5a",
-        "bytes": 2389862,
-        "mimeType": "image/png",
-        "width": 2048,
-        "height": 905
-      },
-      "thumbnail": {
-        "url": "media/albums/album-ac14c19d/fae94e369df362363e95.thumb.png",
-        "sha256": "dcd4fb7e9d61534ad946d9342a3fdcec40c230e1e94170f0917e279936fa8599",
-        "bytes": 139751,
-        "mimeType": "image/png",
-        "width": 480,
-        "height": 212
-      }
-    }
-  ],
+  "photos": [],
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-11-22T15:07:27.080Z",
+    "created": "2026-11-22T15:08:30.588Z",
     "verificationMethod": "did:web:lnscorey.github.io#key-1",
-    "signatureValue": "4xtmA1AGjMRvfdex8NK1ewguBKqU6PLcirgtQ3yFenal20FBVbW3OTzUBy1KUx2LvgdHKXoFMe2e9mpLKZOVBQ"
+    "signatureValue": "gr6yyZy5QH7F9ZLK2FNnlrBWb9OvJT-Hn8G5d9kLUq5xld91nYQXS4WTLOL1k2noPPMfddGfRssYCIiMQnzPCw"
   }
 }
