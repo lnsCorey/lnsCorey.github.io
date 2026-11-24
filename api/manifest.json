@@ -2,7 +2,7 @@
   "schemaVersion": "1.0.0",
   "siteUrl": "https://lnscorey.github.io",
   "did": "did:web:lnscorey.github.io",
-  "updatedAt": "2026-11-22T15:21:31.926Z",
+  "updatedAt": "2026-11-24T14:15:56.787Z",
   "endpoints": {
     "did": "/.well-known/did.json",
     "profile": "/api/profile.json",
@@ -22,7 +22,7 @@
       "sha256": "23caae93772a9acdfbfe45c92221b2eb7873d448ebd1064b7d9ce8dc8a62cb29"
     },
     "profile": {
-      "sha256": "18d228f57abdef80ee720ed10806672e32e3a3304675d362c07d0793d4a80369"
+      "sha256": "0d7127596a018f4bedbcff27c0e03dd73b65a3777f1166fb0c383021b840e276"
     },
     "albums": {
       "sha256": "a72978df6ebb5284c541aad87d25652bd98ebd302ce77d08922c5f1fbb2d4b38"
@@ -36,8 +36,8 @@
   },
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2026-11-22T15:21:31.926Z",
+    "created": "2026-11-24T14:15:56.787Z",
     "verificationMethod": "did:web:lnscorey.github.io#key-1",
-    "signatureValue": "GOYgvYbWoB2ySm-qUoChmHIIxVlfJIwnU95mJw8tSoBENCSlOzlZEUCH6VeAC3E_Z6Sa8MXFReP5W2rtlXbFAA"
+    "signatureValue": "BE-_SvKz-nlBuBtZ0HpGbgU8Abgju6EQKltpPDkPdDXssmlRd3JfMsaZ3LthsIOKI84ieiaik3W6fSx-YLFXCQ"
   }
 }
